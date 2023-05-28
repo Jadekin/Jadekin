@@ -9,3 +9,9 @@
 In my spare time, I engage in web development, learning React, Remix.js, Vue.js, Node.js, and similar technologies. Many of my repositories are related to these practices. I believe in the idea of open learning, sharing the process (including both the successes and mistakes), to gauge my personal growth. Prior to delving into the tech industry, I worked as a lawyer in Peru.
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
+
+### Currently doing (May 27, 2023)
+
+- Learning React Native.
+- Practicing more grid and flexbox.
+- Taking life drawing classes and illustration.
