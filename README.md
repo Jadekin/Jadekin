@@ -10,8 +10,8 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (May 27, 2023)
+### Currently doing (Jun 05, 2023)
 
 - Learning React Native.
-- Practicing more grid and flexbox.
-- Taking life drawing classes and illustration.
+- Thinking how I am going to buy a Vision Pro.
+- WWDC WEEK! 💻⌚️📱
