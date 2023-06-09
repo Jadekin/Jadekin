@@ -15,3 +15,5 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 - Learning React Native.
 - Thinking how I am going to buy a Vision Pro.
 - WWDC WEEK! 💻⌚️📱
+
+More on that, check my [TIL](https://github.com/Jadekin/TIL).
