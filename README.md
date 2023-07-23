@@ -10,8 +10,10 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (Jun 15, 2023)
+### Currently doing (Jul 23, 2023)
 
-- Learning React Native, Redux and styling.
+- Learning Redux.
+- CI/CD on AzureOps.
+- Charcoal life drawing, and taking some lessons on a Montreal studio. 
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
