@@ -1,7 +1,5 @@
 ![I am Karen and I'm a Mobile Developer](assets/profile-header.png)
 
-💻 I work at FreshBooks.
-
 ❤️ I am interested in mobile accessibility, UX, and creating visual experiences that users can enjoy.
 
 👩🏻‍🏫 I am a mentor at work, and I regularly volunteer in STEM programs oriented towards minorities in tech. I also provide mentorship/tutoring services to individuals learning iOS development and general programming.
@@ -10,7 +8,7 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (Jul 23, 2023)
+### Currently doing (Jul 31, 2023)
 
 - Learning Redux.
 - CI/CD on AzureOps.
