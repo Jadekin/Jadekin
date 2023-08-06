@@ -8,10 +8,10 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (Jul 31, 2023)
+### Currently doing (August 5th, 2023)
 
 - Learning Redux.
+- How does the DocuSignSDK works?
 - CI/CD on AzureOps.
-- Charcoal life drawing, and taking some lessons on a Montreal studio. 
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
