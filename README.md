@@ -8,9 +8,11 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (September 26th, 2023)
+### Currently doing (October 12th, 2023)
 
-- SwiftUI
-- CI/CD.
+- Coaching.
+- Learning Argentinian history.
+- Planning a trip.
+- Learning Three.js
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
