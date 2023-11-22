@@ -8,10 +8,8 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (October 12th, 2023)
+### Currently doing (November 21st, 2023)
 
-- Learning Argentinian history.
-- Learning Widgets in iOS 17.
-- Github Projects.
+- Generics! Generics! Generics! lol
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
