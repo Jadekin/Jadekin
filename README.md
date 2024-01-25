@@ -8,9 +8,9 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (November 29th, 2023)
+### Currently doing (January 24th, 2024)
 
 - Generics! Generics! Generics! lol
-- Prompt + chatgpt https://www.youtube.com/watch?v=_ZvnD73m40o
+- HealthKit types and biodata
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
