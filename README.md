@@ -8,8 +8,9 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (February 20th, 2024)
+### Currently doing (March 19th, 2024)
 
-- HealthKit types and biodata
+- ActivityKit and Live Activities.
+- Github automation.
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
