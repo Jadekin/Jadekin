@@ -11,7 +11,6 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 ### Currently doing (April 15th, 2024)
 
 - ActivityKit and Live Activities, using Braze.
-- Prepping for a volunteering session as a Sector Partner for Unearth Education Éveillée, for high school students in West Ottawa, Ontario.
-- AI as iOS developer? I am not sure how does it look like yet, but I am trying to improve in that end. So much AI around me and I still don't get much. 
+- Remix.
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
