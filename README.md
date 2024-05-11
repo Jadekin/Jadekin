@@ -8,9 +8,9 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (April 15th, 2024)
+### Currently doing (May 10th, 2024)
 
-- ActivityKit and Live Activities, using Braze.
+- Algorithms and data structures review.
 - Remix.
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
