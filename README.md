@@ -8,9 +8,9 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (May 29th, 2024)
+### Currently doing (July 1st, 2024)
 
-- Algorithms and data structures review.
-- Flutter.
+- React Native
+- Remix.js.
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
