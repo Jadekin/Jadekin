@@ -8,10 +8,9 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (July 20st, 2024)
+### Currently doing (August 29th, 2024)
 
-- React Native.
-- Instruments and how to check the performance of the app using those.
-- Backend using Appwrite.
+- SwiftUI: async await.
+- Next.js
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
