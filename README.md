@@ -8,10 +8,8 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (October 24th, 2024)
+### Currently doing (Nov 5th, 2024)
 
 - Swift 6.
-- A big big big big review on new React things. I got the new Epic React Couse and it is my project for the rest of October and November.
-- SQL.
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
