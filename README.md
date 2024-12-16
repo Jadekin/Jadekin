@@ -8,8 +8,9 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing (Nov 5th, 2024)
+### Currently doing (Dec 16th, 2024)
 
-- Swift 6.
+- Async/await in Swift.
+- Accessiiblity tone on React Native
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
