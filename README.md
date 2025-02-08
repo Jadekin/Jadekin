@@ -8,11 +8,8 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing for the week (Jan 8th-14th, 2025) 
+### Currently doing for the week (Feb 8th, 2025) 
 
-- Node.js tutorial, to reflesh PostgreSQL, Prisma and Docker. https://www.youtube.com/watch?v=9BD9eK9VqXA
-- Accessibility practices related to Password Input.
-- React Native Navigation.
-- React Native setup of a project.
+- Taking a break, because that is important too.
 
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
