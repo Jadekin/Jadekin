@@ -8,7 +8,7 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing for the week (Feb 8th, 2025) 
+### Currently doing for the week (Mar 21st, 2025) 
 
 - Taking a break, because that is important too.
 
