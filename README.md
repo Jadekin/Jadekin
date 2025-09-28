@@ -8,10 +8,8 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing for the week (April 18th, 2025) 
+### Currently doing for the week (September 28th, 2025) 
 
-- Review on Objective C.
-- How to use App Intents, and the switch from Siri Intents.
-- Got new art supplies, amazing neon colors to use!
+- API for Google Books, and AI implementation for a small books database.
   
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
