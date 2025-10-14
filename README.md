@@ -8,8 +8,9 @@ In my spare time, I engage in web development, learning React, Remix.js, Vue.js,
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
 
-### Currently doing for the week (September 28th, 2025) 
+### Currently doing for the week (October 14th, 2025) 
 
-- API for Google Books, and AI implementation for a small books database.
+- Fixing my website and organizing my blog :)
+- Finally, doing my Dante ipsum, a project that i love.
   
 More on that, check my [TIL](https://github.com/Jadekin/TIL).
