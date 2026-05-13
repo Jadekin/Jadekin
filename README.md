@@ -7,10 +7,3 @@
 In my spare time, I engage in web development, learning React, Remix.js, Vue.js, Node.js, and similar technologies. Many of my repositories are related to these practices. I believe in the idea of open learning, sharing the process (including both the successes and mistakes), to gauge my personal growth. Prior to delving into the tech industry, I worked as a lawyer in Peru.
 
 🌟🌟🌟 If you are interested in any of these topics or would like to chat about video games 🕹️, cooking 🥘, knitting 🧶, drawing 🎨, reading 📚, or design 🎭, feel free to reach out. 🌟🌟🌟
-
-### Currently doing for the week (December 5th, 2025) 
-
-- Cloud Digital leader training to get the certification.
-- Snowflake practice. oMG lots of learnings there.
-  
-More on that, check my [TIL](https://github.com/Jadekin/TIL).
